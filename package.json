@@ -1,0 +1,38 @@
+{
+  "name": "copy-webpack-plugin",
+  "version": "1.0.2",
+  "description": "copy file or dir webapck1 plugin",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "copy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huanhuan1989/copy-webpack-plugin.git"
+  },
+  "keywords": [
+    "copy",
+    "file",
+    "webpack",
+    "plugin",
+    "copy-webpack-plugin"
+  ],
+  "maintainers": [
+    {
+      "name": "wanghuan-iri",
+      "email": "wanghuan-iri@360.cn"
+    }
+  ],
+  "author": "huanhuan",
+  "bugs": {
+    "url": "https://github.com/huanhuan1989/copy-webpack-plugin/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/huanhuan1989/copy-webpack-plugin#readme",
+  "devDependencies": {
+    "glob": "^7.1.2"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "copy-webpack-plugin",
+  "name": "copy-webpack1-plugin",
   "version": "1.0.2",
   "description": "copy file or dir webapck1 plugin",
   "main": "index.js",

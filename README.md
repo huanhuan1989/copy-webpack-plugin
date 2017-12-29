@@ -4,7 +4,7 @@ webpack1copy文件/文件夹 只是针对于webpack1, 其他未测试
 ## node-安装
 ```javascript
 
-npm install @q/copy-webpack-plugin
+npm install copy-webpack1-plugin
 
 ```
 ## 使用方法
@@ -17,7 +17,7 @@ npm install @q/copy-webpack-plugin
  * @param {String}  entry   输出路径
  * 
  */
-const CopyWebpackPlugin = require('copy-webpack-plugin')
+const CopyWebpackPlugin = require('copy-webpack1-plugin')
 const path = require('path')
 
 module.exports = {
